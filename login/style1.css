@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    align-items: center;
+}
+img{
+    display: block;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+    margin: 1px;
+}
+body{
+    background-color: bisque;
+}
+.right{
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
